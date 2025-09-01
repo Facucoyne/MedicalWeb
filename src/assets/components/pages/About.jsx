@@ -10,7 +10,17 @@ export const About = () => {
         <img src={Img1} alt="" />
       <div className='texto'>
        <h2 class="TextoGalery">Quines Somos</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti quia, error numquam debitis repellendus quod sunt tenetur amet, quasi facere laboriosam suscipit recusandae! Ducimus quae voluptatem consequuntur quibusdam. Magni, ab!</p>
+              <p>
+
+
+​
+
+Nos dedicamos a la atención de pacientes individuales, grupos familiares y grupos
+corporativos.
+
+Contamos con una diversidad de ofertas de planes adaptadas a cada necesidad. 
+
+ </p>
       </div>
       </div>
 

@@ -1,0 +1,67 @@
+
+.TextoContact{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    color: #264e72;
+    font-family: "DM Serif Text";
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)), url(/src/assets/components/pages/img/wallpaperflare.com_wallpaper.jpg);
+}
+
+.Form1{
+    max-width: 550px;
+    width: 65%;
+    background-color: #fff;
+    padding: 25px 25px 30px;
+    border-radius: 10px 20px;
+    box-shadow: 0 0 10 rgba(0, 0, 0, 0.1);
+    margin: 25px;
+    border: 1px solid #3e3a3a;
+    
+}
+label{
+    text-align: center;
+    
+}
+.Form1 h2{
+    font-size: 30px;
+    text-align: center;
+}
+.Form1 .input-box{
+    margin-top: 20px;
+}
+.input-box .field{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #ddd;
+    outline: none;
+    border-radius: 6px;
+    padding: 15px;
+    font-size: 16px;
+    color: #333;
+    margin-top: 8px;
+}
+
+.input-box .field.mess{
+    height: 100px;
+    resize: none;
+}
+
+.Form1 button{
+    width: 100%;
+    height: 55px;
+    background: rgb(1, 98, 70);
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+}

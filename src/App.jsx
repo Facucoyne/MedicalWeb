@@ -1,6 +1,6 @@
 import { Route , Routes } from "react-router-dom";
 import { Navbar } from "./assets/components/Navbar";
-import { About , Contact , Home , Services} from "./assets/components/pages";
+import { About , Contact , Home , Services , } from "./assets/components/pages";
 
 
 

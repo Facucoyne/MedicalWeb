@@ -7,7 +7,7 @@ export const Banner = () => {
     <div className='Banner'>
       <div className='Banner-content'>
         <div className='Texto'>
-          <h1>Centro Medico Buenos Aires</h1>
+          <h3>Centro Medico Buenos Aires</h3>
           
         </div>
         

@@ -10,11 +10,18 @@
     
 }
 
+.NuestrosPlanes{
+    text-align: center;
+    padding: 20px;
+    font-family: "DM Serif Text", serif;
+    color: #264e72;
+}
+
 .coder-card1{
     width: 310px;
     height: 400px;
     overflow: hidden;
-        border:  1px solid black;
+        
 
 
     
@@ -33,6 +40,6 @@
         align-items: center;
         text-align: center;
         height: 160px;
-        background-color: rgb(211, 245, 239);
+        
 
 }

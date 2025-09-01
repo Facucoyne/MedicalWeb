@@ -13,6 +13,7 @@ import "./Services.css"
 export const Services = () => {
   return (
     <div>
+      <h3 className='NuestrosPlanes'>Nuestros Planes</h3>
       <div className='contenedor-destacado1'>
         <div className='coder-card1'>
         <img src={Img1} alt="" />

@@ -20,7 +20,7 @@ img{
 }
 
 .text{
-  color: rgb(6, 111, 107);
+  color: #4682ba;
   padding: 10px;
 }
 
@@ -38,7 +38,8 @@ form div {
 form label {
   display: block;
   margin-bottom: 5px;
-  background-color: rgb(177, 232, 177);
+  background-color: #4682ba;
+  color: #fff;
   
 }
 
