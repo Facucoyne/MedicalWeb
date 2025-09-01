@@ -1,0 +1,79 @@
+
+.PrincipalText{
+    text-align: center;
+    padding: 20px;
+    font-family: "DM Serif Text", serif;
+}
+
+.contenedor-destacado{
+      display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 25px;
+    padding-bottom: 40px;
+    padding: 35px;
+    
+
+}
+.coder-card{
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    
+}
+
+.coder-card img{
+    width: 100%;
+    height: 200px;
+    
+     
+     
+   
+}
+.Parrafot{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.coder-texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+/* From Uiverse.io by adamgiebl */ 
+.cssbuttons-io-button {
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+  cursor: pointer;
+  margin-left: 100px;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 0.7em 1.4em 0.7em 1.1em;
+  color: white;
+  background: #ad5389;
+  background: linear-gradient(
+    0deg,
+    rgba(20, 167, 62, 1) 0%,
+    rgba(102, 247, 113, 1) 100%
+  );
+  border: none;
+  box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;
+  letter-spacing: 0.05em;
+  border-radius: 20em;
+}
+
+.cssbuttons-io-button svg {
+  margin-right: 6px;
+}
+
+.cssbuttons-io-button:hover {
+  box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;
+}
+
+.cssbuttons-io-button:active {
+  box-shadow: 0 0.3em 1em -0.5em #14a73e98;
+}
