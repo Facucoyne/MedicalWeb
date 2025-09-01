@@ -27,19 +27,22 @@ img{
 form {
   max-width: 600px;
   margin: 0 auto;
+  
  
 }
 
 form div {
   margin-bottom: 20px;
   
+  
 }
 
 form label {
   display: block;
   margin-bottom: 5px;
-  background-color: #4682ba;
-  color: #fff;
+  background-color: #133238;
+  color: #f6f6f6;
+  border: 1px solid #1b1111;
   
 }
 
