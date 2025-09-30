@@ -24,13 +24,7 @@ export const Services = () => {
         </div>
         </div>
 
-        <div className='coder-card1'>
-        <img src={Img2} alt="" />
-        <div className='coder-texto1'>
-          <h3>Neumología</h3>
-        <p> rama de la medicina que se enfoca en la prevención, diagnóstico y tratamiento de las enfermedades del aparato respiratorio,</p>
-        </div>
-        </div>
+        
 
         <div className='coder-card1'>
          <img src={Img4} alt="" />
@@ -57,31 +51,10 @@ export const Services = () => {
         </div>
         </div>
 
-    <div className='coder-card1'>
-         <img src={Img7} alt="" />
-          <div className='coder-texto1'>
-            <h3>Traumatología</h3>
-        <p>especialidad médica y quirúrgica que se encarga del estudio, diagnóstico, tratamiento y prevención de las enfermedades y lesiones </p>
-        </div>
-        </div>
-
-    <div className='coder-card1'>
-         <img src={Img8} alt="" />
-          <div className='coder-texto1'>
-            <h3>Radiología</h3>
-        <p>rama de la medicina que utiliza diferentes tecnologías de imagen, como los rayos X, ultrasonidos y campos magnéticos, para diagnosticar y tratar enfermedades,</p>
-        </div>
-        </div>
+  
 
 
 
-<div className='coder-card1'>
-        <img src={Img9} alt="" />
-        <div className='coder-texto1'>
-          <h3>Otorrinolaringología</h3>
-        <p>  especialidad médica y quirúrgica que se encarga de las enfermedades, trastornos y patologías que afectan el oído, la nariz, la garganta </p>
-        </div>
-        </div>
       </div>
     </div>
 
